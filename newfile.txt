@@ -3,4 +3,5 @@ Commit is used to capture a snapshot of the local repository's currently staged 
 Push is used to push the local changes from local to remote repository.
 
 updated on 11 Nov 5pm
+Pull the changes to your local repository
 
