@@ -1,0 +1,3 @@
+Add is used to add a change in the working directory to the staging area.
+Commit is used to capture a snapshot of the local repository's currently staged changes.
+Push is used to push the local changes from local to remote repository.
